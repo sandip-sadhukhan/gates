@@ -53,3 +53,15 @@ select{
     color:blueviolet;
     text-decoration: none;
 }
+//media query
+@media (min-width:992px){
+    .heading{
+        font-size:60px;
+    }
+    .imgdiv img{
+        width:15%;
+    }
+    .logicpic img{
+        width:20%;
+    }
+}
